@@ -14,8 +14,9 @@ ESP32S3N16R8 Main AI Handler
 
 ESP32C3 Supermini Smart Wall (tracks supplements, parts list tracker)
 
+<img width="900" height="602" alt="Schematic_c3AISmartWall_2026-01-19" src="https://github.com/user-attachments/assets/12dfc3b3-d310-4a1a-9b8c-51a7eacaf3fd" />
 
-<img width="900" height="601" alt="c3AISmartWall" src="https://github.com/user-attachments/assets/eb88c652-2efa-42be-8902-174283d06107" />
+
 
 C6, controls pc, RGB lights, TV and Web server.
 
