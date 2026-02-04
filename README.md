@@ -2,6 +2,10 @@
 
 ## WIP!!!
 
+
+
+### I have ordered the Parts and will soon continue on the designs and etc.
+
 Basically, this is Jarvis, all ran on different microcontrollers, rn im still looking into it. The ESP32S3N16R8 does main stuff, it listens, processes and sends it all
 off to Groq. it processes it sends some data with json. there is so much stuff i cant even rlly like summarize it, basically its just an open source, very smart alexa.
 So c3 does main AI stuff, the ESP32C3, is going to be in a 3d printer wall mounted thing, its gonna have a bowl with a button and gonna remind me to take my supplements,
