@@ -12,9 +12,12 @@ So c3 does main AI stuff, the ESP32C3, is going to be in a 3d printer wall mount
 then a display, that i can use to control my entire room, change settings and track stuff i have, like for example if i take out a module out of my storage i will log it and know later.
 the the c6 is mainly for controlling other stuff, like my TV, my PC, and more. well thats about it, this is a very rough explanation and doesnt make sense, i know. His name will be Jarvy.
 
+# THE SCHEMATICS ARE OUTDATED. the parts have arrived but the mic broke, also smsot of those schematics dont work and i need to update them, also now the esp32c6 will do the job from esp32c3 and esp32c6 job. 
+
 ESP32S3N16R8 Main AI Handler
 
-<img width="782" height="602" alt="image" src="https://github.com/user-attachments/assets/c04d49df-fa3d-4b8c-bda8-277b67122d2c" />
+<img width="818" height="627" alt="ESP32S3N16R8UPDATEDFINAL" src="https://github.com/user-attachments/assets/f15eb23e-727c-4bc4-bf5f-028c9d11c69d" />
+
 
 ESP32C3 Supermini Smart Wall (tracks supplements, parts list tracker)
 
